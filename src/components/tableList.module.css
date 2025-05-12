@@ -1,0 +1,17 @@
+.tab-choose {
+  overflow: hidden;
+  color: black;
+}
+
+.tab {
+  float: left;
+  width: 50%;
+}
+
+.tab-on {
+  background-color: red;
+}
+
+.hidden {
+  display: none;
+}
